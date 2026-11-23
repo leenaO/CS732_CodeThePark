@@ -1,0 +1,12 @@
+newmtl trilho_da_lateral
+Kd 1 1 1
+newmtl trilhos
+Kd 1 1 1
+newmtl trilho_do_meio
+Kd 1 1 1
+newmtl estrutura
+Kd 1 1 1
+newmtl bolhinhas
+Kd 1 1 1
+newmtl carrinho
+Kd 1 1 1

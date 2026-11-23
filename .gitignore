@@ -1,0 +1,50 @@
+# ---- Unity (generated folders - Unity rebuilds them) ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# ---- IDE files (made by Visual Studio / Rider) ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---- builds (the APK is uploaded in GitHub Releases, it is larger than 100 MB) ----
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- our test logs from the headset (personal device logs) ----
+Tools/quest_log*.txt
+
+# ---- third-party sound that may not be shared as a file (Pixabay licence) - see README ----
+Assets/Audio/Celebration/fireworks_celebration.wav
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini

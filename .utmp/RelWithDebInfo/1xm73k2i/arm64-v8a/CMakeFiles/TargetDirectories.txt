@@ -1,0 +1,5 @@
+C:/Users/sha/Desktop/FinalProject/CS732_CodeThePark/.utmp/RelWithDebInfo/1xm73k2i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sha/Desktop/FinalProject/CS732_CodeThePark/.utmp/RelWithDebInfo/1xm73k2i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/sha/Desktop/FinalProject/CS732_CodeThePark/.utmp/RelWithDebInfo/1xm73k2i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/sha/Desktop/FinalProject/CS732_CodeThePark/.utmp/RelWithDebInfo/1xm73k2i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/sha/Desktop/FinalProject/CS732_CodeThePark/.utmp/RelWithDebInfo/1xm73k2i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
